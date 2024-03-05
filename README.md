@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm Charline 👋
 
-<!--
-**charlinemons/charlinemons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer based in chilly Montreal, Canada.
 
-Here are some ideas to get you started:
+## About
+- 👩‍💻 [SheCodes alumni](https://www.shecodes.io/graduates/82888-charline-mons) - [Le Wagon alumni](https://kitt.lewagon.com/alumni/charlinemons)
+- 💼 Freelance developer
+- 🔭 Currently working on a custom made Todo App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- I'm always open to a virtual coffee **charline.mons@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/charlinemons/)
+- [Portfolio](https://www.charlinemons.com)
+
+Feel free to explore and connect! 
